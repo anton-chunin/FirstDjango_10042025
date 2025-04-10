@@ -7,4 +7,4 @@
 
 3. 'pip install -r requirements.txt'
 
-4. 'puthon manage.py runserver'
+4. 'python manage.py runserver'
